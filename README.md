@@ -1,5 +1,6 @@
 - 👋 Hi, I’m OSAKUE IGNATIUS IFECHUKWUDE
-- 👀 I’m interested in data analysis
+- 👀 I’m interested in data analysis and learning new things
+- 👯 I’m looking forward to collaborating and discovering new facts
 - 📫 How to reach me ...
 
 <!---
